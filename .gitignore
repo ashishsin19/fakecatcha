@@ -17,3 +17,7 @@ playground.xcworkspace
 
 # macOS
 .DS_Store
+
+# Unrelated vendor archives (do not commit)
+*.zip
+LibrariesUserGuide*.pdf
